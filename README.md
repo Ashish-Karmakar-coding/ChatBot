@@ -32,4 +32,4 @@ This project is a **static chatbot website**, built to demonstrate how a chatbot
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ChatBot.git
+git clone https://github.com/Ashish-Karmakar-coding/ChatBot.git
